@@ -53,7 +53,7 @@ body, html {
 
 /* 두 번째 섹션 - 텍스트와 배경 이미지 */
 .second-section {
-    background-image: url('image/라우브\ 하늘백그라운드.png'); /* 두 번째 섹션 배경 이미지 */
+    background-image: url('image/Lauv\ sky\ blue\ background.png'); /* 두 번째 섹션 배경 이미지 */
     background-size: cover; /* 섹션을 꽉 채우도록 */
     background-position: center;
     background-repeat: no-repeat;
@@ -61,7 +61,7 @@ body, html {
 
 /* 세 번째 섹션 - 텍스트와 배경 이미지 */
 .third-section {
-    background-image: url('image/라우브\ 검정\ 백그라운드.png'); /* 세 번째 섹션 배경 이미지 */
+    background-image: url('image/Lauv\ Black\ Background.png'); /* 세 번째 섹션 배경 이미지 */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
